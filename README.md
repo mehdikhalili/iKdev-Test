@@ -1,5 +1,5 @@
 # ikDev-Test
-Un projet pour un test technique pour un stage - ikDev
+Un test technique pour un stage chez ikDev.
 
 Ce projet est un SPA (Single Page Application) dont le main fichier est "index.php".
 Dans ce projet j'ai choisi de travailler avec le php natif, jQuery, Bootstrap.
